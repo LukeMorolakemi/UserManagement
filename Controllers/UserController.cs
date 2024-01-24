@@ -94,7 +94,11 @@ namespace UserManagement.Controllers
             return Ok("User Sucessfuly Deleted");
 
         }
-    
+
+       
+
+
+
 
 
     }
